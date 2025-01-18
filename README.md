@@ -23,3 +23,6 @@ This project aims to predict car prices using various regression models. Data fo
 5. Model results:
   The models were compared based on their performance metrics.
   The best performing model was selected to predict car prices using new data.
+
+## PowerBi Visualization:
+![image](https://github.com/user-attachments/assets/9e56e3a1-7392-4afb-adaf-b936911f5baf)
